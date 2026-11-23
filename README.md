@@ -41,7 +41,6 @@ I enjoy exploring new concepts, experimenting with code, and building practical 
 ## What You'll Find Here
 
 - Programming projects and experiments
-- Harvard CS50 coursework and problem sets
 - Practical implementations of computer science concepts
 - Personal projects and code explorations
 - Notes and documentation from my learning journey
@@ -52,6 +51,3 @@ I enjoy exploring new concepts, experimenting with code, and building practical 
 
 Computer Science • Programming • Technology • Problem Solving • Software Development
 
----
-
-*Learn. Build. Experiment. Repeat.*
