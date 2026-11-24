@@ -2,10 +2,6 @@
 
 ### IT Student | Computer Science Enthusiast
 
-I'm an IT student interested in programming, computer science, problem-solving, and understanding how technology works.
-
-I enjoy exploring new concepts, experimenting with code, and building practical projects.
-
 ---
 
 ## Technical Skills
